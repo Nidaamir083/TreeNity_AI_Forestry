@@ -46,3 +46,11 @@ Integrate real satellite data (e.g., Sentinel or Landsat imagery).
 Deploy full Streamlit web app for real-time forest monitoring.
 
 Add deep learning-based vegetation segmentation.
+
+.
+
+📂 Repository maintained by:
+
+Nida Amir – Backend Developer & Data Scientist
+https://www.linkedin.com/in/nida-amir-3770922bb/
+
