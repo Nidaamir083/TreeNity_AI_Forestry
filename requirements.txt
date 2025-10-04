@@ -1,0 +1,21 @@
+# Core Libraries
+pandas
+numpy
+matplotlib
+scikit-learn
+
+# Geospatial and Environmental Data
+geopandas
+
+# App and Backend Frameworks
+streamlit
+fastapi
+uvicorn
+
+# Utility and Data Handling
+requests
+jsonschema
+
+# Optional for notebook use
+jupyter
+notebook
