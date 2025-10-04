@@ -31,4 +31,18 @@ Python · Pandas · Scikit-learn · NumPy · GeoPandas · Streamlit · FastAPI
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
-jupyter notebook notebooks/Tree_Survival_Prediction.ipynb
+jupyter notebook notebooks/tree_survival_prediction_colab(1).ipynb
+
+🌳 Results
+
+Tree survival prediction model achieved high F1-score on simulated data.
+
+Canopy and health analytics modules visualize vegetation density and risk zones.
+
+📈 Future Work
+
+Integrate real satellite data (e.g., Sentinel or Landsat imagery).
+
+Deploy full Streamlit web app for real-time forest monitoring.
+
+Add deep learning-based vegetation segmentation.
